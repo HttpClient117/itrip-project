@@ -13,5 +13,6 @@
         <module>itrip-beans</module>
         <module>itrip-dao</module>
         <module>itrip-util</module>
+        <module>itrip-auth</module>
     </modules>
 </project>
